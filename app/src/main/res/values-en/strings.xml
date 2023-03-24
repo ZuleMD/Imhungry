@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">I\'m Hungry</string>
+    <string name="wlc">Welcome</string>
+    <string name="choosetxt">Choose your preferred language</string>
+    <string name="choosebtn">Choose</string>
+    <string name="gobtn">Start</string>
+    <string name="good">Good :)</string>
+    <string-array name="food_categories">
+        <item>Fast food</item>
+        <item>Food and drinks</item>
+    </string-array>
+
+
+</resources>

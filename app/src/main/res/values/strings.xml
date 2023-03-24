@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">I\'m Hungry</string>
+     <string name="wlc">Welcome</string>
+    <string name="choosetxt">Choose your preferred language</string>
+    <string name="choosebtn">Choose</string>
+     <string name="gobtn">Start</string>
+    <string name="good">Good :)</string>
+    <string-array name="food_categories">
+        <item>Fast food</item>
+        <item>Food and drinks</item>
+    </string-array>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA6Y2BX-uF7ttWvfucY47nRsIUuz_LpJJE</string>
+</resources>
